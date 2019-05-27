@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\滑动窗口的最大值\滑动窗口的最大值\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\滑动窗口的最大值\滑动窗口的最大值\源.cpp(23): warning C4018: “>=”: 有符号/无符号不匹配
+  滑动窗口的最大值.vcxproj -> c:\Users\administrator\source\repos\滑动窗口的最大值\Debug\滑动窗口的最大值.exe

@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\度小满\replacestr\replacestr\源.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\度小满\replacestr\replacestr\源.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+  replacestr.vcxproj -> C:\Users\Administrator\source\repos\度小满\replacestr\Debug\replacestr.exe

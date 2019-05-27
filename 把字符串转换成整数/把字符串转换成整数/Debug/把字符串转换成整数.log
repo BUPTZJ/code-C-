@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\把字符串转换成整数\把字符串转换成整数\源.cpp(32): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\把字符串转换成整数\把字符串转换成整数\源.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  把字符串转换成整数.vcxproj -> C:\Users\Administrator\source\repos\把字符串转换成整数\Debug\把字符串转换成整数.exe

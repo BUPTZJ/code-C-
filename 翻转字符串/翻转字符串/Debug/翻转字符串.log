@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\翻转字符串\翻转字符串\源.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\翻转字符串\翻转字符串\源.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  翻转字符串.vcxproj -> C:\Users\Administrator\source\repos\翻转字符串\Debug\翻转字符串.exe

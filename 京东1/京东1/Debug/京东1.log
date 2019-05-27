@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\京东1\京东1\源.cpp(12): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\京东1\京东1\源.cpp(30): warning C4018: “<”: 有符号/无符号不匹配
+  京东1.vcxproj -> C:\Users\Administrator\source\repos\京东1\Debug\京东1.exe

@@ -1,0 +1,3 @@
+﻿  源.cpp
+c:\users\administrator\source\repos\two_sum\two_sum\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+  Two_sum.vcxproj -> C:\Users\Administrator\source\repos\Two_sum\Debug\Two_sum.exe
